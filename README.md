@@ -1,7 +1,7 @@
-# stringbind.com-playwright
+# stringbind.com UI tests
 
 UI tests for public stringbind.com website.
 
-## Subheader
+## Explanation
 
 This is explanation of UI tests.
