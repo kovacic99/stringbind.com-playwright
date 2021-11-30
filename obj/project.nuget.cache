@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/wKQX3fuvmZkAFhohUvxFH01LAxWfEBjEKH/yGQ9nMIF+ncv9MBeEYdHiXRTLitCkgqMnVbNe25Gh/5pzXOh7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\git\\stringbind.com-playwright\\Stringbind-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\macross.json.extensions\\2.0.0\\macross.json.extensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.playwright\\1.17.0\\microsoft.playwright.1.17.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
