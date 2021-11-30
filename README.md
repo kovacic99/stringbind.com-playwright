@@ -6,6 +6,6 @@ UI tests for public stringbind.com website.
 
 This is explanation of UI tests.
 
-## Local Development
+## Feature branch for local development
 
 Added new branch for local development.
