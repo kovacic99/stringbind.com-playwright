@@ -9,7 +9,7 @@ class Program
         await using var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
         {
             Headless = false,
-            SlowMo = 50,
+            SlowMo = 200,
         });
         var context = await browser.NewContextAsync();
 
